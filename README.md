@@ -9,4 +9,8 @@ Thaiany Oliveira
 
 - instalar na máquina: o R, o RStudio, o git
 
+procurar na internet
+
 - cadastrar no github
+
+## configurar 
